@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Naveen.
+- 👋 Hi, I’m Naveen N.
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning tools required for performing data analysis.
-- 💞️ I’m looking forward to collaborate with any IT Company that provides me opportunity to enhance my skills.
+- 💞️ I’m looking forward to collaborate with any IT Company that provides me a opportunity to enhance my skills.
 - 📫 reach me @ nikhil.naveen.333@gmail.com
 
 <!---
